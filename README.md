@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 I am a student and amateur human, still trying to get used to the reality. BSc in Nanotechnology, hopefully future MSc in Teaching of physics - chemistry for secondary schools. Linux user for 3-4 years, gradually progressing towards the initial "source" OS (Mint->Ubuntu->Debian). 1.5 year experience with VASP.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkropacek)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jkropacek&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkropace)](https://github.com/anuraghazra/github-readme-stats)
 <sub>still under construction...</sub>
