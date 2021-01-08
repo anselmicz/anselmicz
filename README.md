@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hello my friend, stay a while and listen.
-![counter](https://en9rfd0wz8jte2t.m.pipedream.net)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkropacek&count_bg=%233D5EC8&title_bg=%23555555&icon=dropbox.svg&icon_color=%23E7E7E7&title=profile-views&edge_flat=false)](https://hits.seeyoufarm.com)
 I am a student and amateur human, still trying to get used to the reality. BSc in Nanotechnology, hopefully future MSc in Teaching of physics - chemistry for secondary schools. Linux user for 3-4 years, gradually progressing towards the initial "source" OS (Mint->Ubuntu->Debian). 1.5 year experience with VASP.
+
+<sub>still under construction...</sub>
