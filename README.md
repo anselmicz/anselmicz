@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jkropacek/jkropacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello my friend, stay a while and listen.
+![counter](https://en9rfd0wz8jte2t.m.pipedream.net)
+I am a student and amateur human, still trying to get used to the reality. BSc in Nanotechnology, hopefully future MSc in Teaching of physics - chemistry for secondary schools. Linux user for 3-4 years, gradually progressing towards the initial "source" OS (Mint->Ubuntu->Debian). 1.5 year experience with VASP.
