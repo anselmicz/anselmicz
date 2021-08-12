@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hello my friend, stay a while and listen.
 <!-- ![](https://komarev.com/ghpvc/?username=anselmicz) -->
 
-I am a student and amateur human, still trying to get used to the reality. BSc in Nanotechnology, hopefully future MSc in Teaching of physics - chemistry for secondary schools. Linux user since around 2016, gradually progressing towards the initial "source" OS (Mint->Ubuntu->Debian). 1.5 year experience with VASP, occasionally playing around with Quantum Espresso on my home computer.
+Current HPC System Specialist, BSc in Nanotechnology, hopefully future MSc in Teaching of physics - chemistry for secondary schools. Linux user since around 2016, currently happily married to Debian. 1.5 year experience with VASP, occasionally playing around with Quantum Espresso on my Raspberry Pi.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmicz)](https://github.com/anuraghazra/github-readme-stats)
 
