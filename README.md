@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Hello my friend, stay a while and listen.
 <!-- ![](https://komarev.com/ghpvc/?username=anselmicz) -->
@@ -21,3 +21,4 @@ HPC System Specialist, BSc in Nanotechnology, hopefully future MSc in Teaching o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmicz)](https://github.com/anuraghazra/github-readme-stats)
 
 <sub>still under construction...</sub>
+-->
